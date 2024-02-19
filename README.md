@@ -16,6 +16,7 @@ Il progetto è organizzato nel seguente modo:
 Come Utilizzare
 
   Per visualizzare il sito, apri semplicemente il file index.html nel tuo browser web preferito. Assicurati di avere una connessione internet attiva per il caricamento delle immagini.
+  Oppure utilizzare il seguente link: https://irenemacchi01.github.io/portfolio-fotografa/
 
 Personalizzazioni
 
