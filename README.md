@@ -6,12 +6,12 @@ Struttura del Progetto
 
 Il progetto è organizzato nel seguente modo:
 
-  index.html: Il file principale HTML che costituisce la homepage del sito.
-  css/: Cartella contenente tutti i file CSS utilizzati per lo stile del sito.
-  js/: Cartella contenente i file JavaScript utilizzati per l'interattività del sito.
-  images/: Cartella contenente le immagini utilizzate nel sito, inclusi i portfolio della fotografa.
-  fonts/: Cartella contenente i font personalizzati utilizzati nel sito.
-  README.md: Questo file README che fornisce informazioni sul progetto.
+  - index.html: Il file principale HTML che costituisce la homepage del sito.
+  - css/: Cartella contenente tutti i file CSS utilizzati per lo stile del sito.
+  - js/: Cartella contenente i file JavaScript utilizzati per l'interattività del sito.
+  - images/: Cartella contenente le immagini utilizzate nel sito, inclusi i portfolio della fotografa.
+  - fonts/: Cartella contenente i font personalizzati utilizzati nel sito.
+  - README.md: Questo file README che fornisce informazioni sul progetto.
 
 Come Utilizzare
 
